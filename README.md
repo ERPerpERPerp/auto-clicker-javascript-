@@ -60,8 +60,7 @@ captures/
 .cxx/
 
 # Google Services (e.g. APIs or Firebase)
-# google-services.json
-
+# google-services.json.
 # Freeline
 freeline.py
 freeline/
@@ -86,4 +85,4 @@ lint/tmp/
 
 # signing
 signing.properties
-smartautoclicker/smartautoclicker.jks
+smartautoclicker/smartautoclicker
